@@ -107,7 +107,7 @@ export const ParchmentScene: React.FC<ParchmentSceneProps> = ({ invitation }) =>
           {/* 2. Date Block: Huge "31" and "15:00 — БЕЗ ОБМЕЖЕНЬ" */}
           <div className={`cinematic-reveal step-2 ${revealedSteps >= 2 ? 'visible' : ''}`}>
             <div className="scroll-date-container">
-              <div className="scroll-date-header">НЕДІЛЯ • ЖОВТЕНЬ</div>
+              <div className="scroll-date-header">СУБОТА • ЖОВТЕНЬ</div>
               <div className="scroll-giant-number">31</div>
               <div className="scroll-time-unlimited">
                 ПОЧАТОК О 15:00 — БЕЗ ОБМЕЖЕНЬ

@@ -103,7 +103,7 @@ export const ParchmentCard: React.FC<ParchmentCardProps> = ({ invitation, isReve
         {/* Tim Burton Giant Date Display (like Photo 2) */}
         <div className={`cinematic-reveal step-2 ${revealedSteps >= 2 ? 'visible' : ''}`}>
           <div className="burton-date-block">
-            <div className="burton-date-day">НЕДІЛЯ • ЖОВТЕНЬ</div>
+            <div className="burton-date-day">СУБОТА • ЖОВТЕНЬ</div>
             <div className="burton-date-giant-number">31</div>
             <div className="burton-date-time">20:00 — 04:00</div>
           </div>
