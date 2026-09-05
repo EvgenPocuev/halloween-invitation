@@ -1,0 +1,36 @@
+:root {
+  /* Gothic & Dark Luxury Palette */
+  --bg-darkest: #050106;
+  --bg-crimson-obsidian: #0c020a;
+  --bg-velvet: #190515;
+  --bg-velvet-light: #280b22;
+
+  --wax-dark: #220104;
+  --wax-primary: #750815;
+  --wax-vibrant: #b21428;
+  --wax-highlight: #ff3b56;
+  --wax-glow: rgba(220, 20, 60, 0.45);
+
+  --gold-primary: #dfb25e;
+  --gold-light: #fae4a0;
+  --gold-deep: #8f651e;
+  --gold-shimmer: linear-gradient(135deg, #d4af37 0%, #fff2a3 50%, #aa7c11 100%);
+
+  --parchment-bg: #151012;
+  --parchment-border: #381a24;
+  --parchment-scorched: #0a0407;
+
+  --violet-glow: rgba(138, 43, 226, 0.35);
+  --amber-glow: rgba(255, 140, 0, 0.4);
+
+  /* Typography */
+  --font-serif-gothic: 'Cinzel Decorative', 'Cinzel', serif;
+  --font-serif-body: 'Cinzel', serif;
+  --font-calligraphy: 'UnifrakturCook', cursive;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  /* Shadows & Elevations */
+  --shadow-envelope: 0 25px 60px -15px rgba(0, 0, 0, 0.95), 0 0 40px rgba(80, 8, 30, 0.25);
+  --shadow-seal: 0 15px 35px rgba(0, 0, 0, 0.9), 0 0 25px rgba(180, 15, 35, 0.4);
+  --shadow-gold-text: 0 2px 10px rgba(223, 178, 94, 0.4);
+}
